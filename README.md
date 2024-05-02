@@ -6,6 +6,10 @@ LLAMAINDEX is a Python-based toolkit designed to facilitate advanced text extrac
 - **Text Extraction**: Automates the extraction of relevant information from a variety of document types.
 - **URL Parsing**: Efficiently parses and processes URLs from text data to extract and organize web content.
 - **Utils**: Function to merge PDFs
+
+## Tokens
+- [Llama](https://console.llama-api.com/account/api-token)
+- [HuggingFace](https://huggingface.co/settings/tokens)
 ## Getting Started
 
 - Install the repository using git clone command
